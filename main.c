@@ -25,6 +25,7 @@
 #include "semphr.h"
 
 #include "LEDd_driver.h"
+#include "LEDa_driver.h"
 #include "POWERd_driver.h"
 #include "ADCd_driver.h"
 #include "ADCa_task.h"
