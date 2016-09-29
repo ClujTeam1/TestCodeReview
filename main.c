@@ -24,8 +24,8 @@
 #include "queue.h"
 #include "semphr.h"
 
-#include "LEDd_driver.h"
-#include "LEDa_driver.h"
+//#include "LEDd_driver.h"	@cori remove this header files
+//#include "LEDa_driver.h"
 #include "POWERd_driver.h"
 #include "ADCd_driver.h"
 #include "ADCa_task.h"
